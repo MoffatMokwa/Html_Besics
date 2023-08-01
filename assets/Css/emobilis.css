@@ -1,0 +1,24 @@
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    background: #f1f1f1;
+}
+li{
+    float: left;
+}
+li a{
+    padding: 15px;
+    font-family: "Roboto Thin";
+    color: darkslateblue;
+    font-size: 45px;
+    text-decoration: none;
+    display: block;
+}
+li a:hover{
+    color: yellowgreen;
+}
+.home{
+    color: red;
+}

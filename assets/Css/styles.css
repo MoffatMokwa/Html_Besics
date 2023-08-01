@@ -1,0 +1,46 @@
+ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    overflow: hidden;
+    background: #a49393;
+
+}
+li{
+    float: left;
+}
+li a{
+    padding: 20px;
+    color: darkblue;
+    font-family: "Roboto Light";font-size: 30px;
+    text-decoration: none;
+    display: block;
+}
+li a:hover{
+    background: darkslateblue;
+}
+.fruits{
+    border: 2px solid red;
+    text-align: center;
+    background-color: darkblue;
+    color: #f1f1f1;
+    padding: 18px;
+    margin: 18px;
+}
+.FRUITS{
+    border: yellow;
+    text-align: left;
+    background-color: darkcyan;
+    color: antiquewhite;
+    margin: 10px;
+    padding: 21px;
+}
+.cars{
+    border: black;
+    text-align: end;
+    color: yellowgreen;
+    background-color: darkblue;
+    margin: 12px;
+    padding: 25;
+
+}
